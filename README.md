@@ -1,2 +1,3 @@
 # Sentiment-based-product-recommendation-system
-Item-based recommendation system augmented with sentiment analysis. Flask API + model artifacts + notebooks to reproduce recommendations.
+
+Item-based recommendation system enhanced by sentiment analysis. Minimal Flask API to serve recommendations and scripts to rebuild the pivot & similarity matrices.
